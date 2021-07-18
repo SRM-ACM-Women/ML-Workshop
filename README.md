@@ -26,6 +26,8 @@ Topic- Classifying images of 5 different pokemons
 	
 ## :pushpin: Cloning the Repo
 
+git clone https://github.com/SRM-ACM-Women/ML-Workshop.git
+
 
 
   

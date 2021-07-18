@@ -24,6 +24,10 @@ Topic- Classifying images of 5 different pokemons
 3. Modelling
 4. Optimizing the Model
 	
+## 🎥 Video to our Workshop: 
+
+https://www.youtube.com/watch?v=lFbiuS18LVA&t=790s
+	
 ## :pushpin: Cloning the Repo
 
 git clone https://github.com/SRM-ACM-Women/ML-Workshop.git
